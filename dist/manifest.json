@@ -3,7 +3,7 @@
   "name": "re-CodeCopy",
   "description": "Because copy to clipboard buttons should exist on every code snippet",
   "homepage_url": "https://github.com/Staler2019/codecopy",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "author": "Staler2019",
   "browser_specific_settings": {
     "gecko": {
