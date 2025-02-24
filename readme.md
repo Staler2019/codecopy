@@ -1,4 +1,4 @@
-# CodeCopy
+# re-CodeCopy
 
 > Because copy to clipboard buttons should exist on every code snippet.
 
@@ -8,30 +8,36 @@
 
 This browser extension available for:
 
-| <a href="https://chrome.google.com/webstore/detail/codecopy/fkbfebkcoelajmhanocgppanfoojcdmg"><img src="https://cloud.githubusercontent.com/assets/398893/15528951/e9f5dc0a-21fd-11e6-86e7-8a0cad6e7548.png" width="48px" height="48px" alt="Chrome logo"></a> | <a href="https://addons.mozilla.org/en-US/firefox/addon/codecopy/"><img src="https://cloud.githubusercontent.com/assets/398893/15528952/ea095cc6-21fd-11e6-9aae-d67479edd442.png" width="48px" height="48px" alt="Firefox logo"></a> |
-|:---:|:---:|
-| [Chrome](https://chrome.google.com/webstore/detail/codecopy/fkbfebkcoelajmhanocgppanfoojcdmg) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/codecopy/) |
+[//]: # (| <a href="https://chrome.google.com/webstore/detail/codecopy/fkbfebkcoelajmhanocgppanfoojcdmg"><img src="https://cloud.githubusercontent.com/assets/398893/15528951/e9f5dc0a-21fd-11e6-86e7-8a0cad6e7548.png" width="48px" height="48px" alt="Chrome logo"></a> | <a href="https://addons.mozilla.org/en-US/firefox/addon/codecopy/"><img src="https://cloud.githubusercontent.com/assets/398893/15528952/ea095cc6-21fd-11e6-9aae-d67479edd442.png" width="48px" height="48px" alt="Firefox logo"></a> |)
+
+[//]: # (|:---:|:---:|)
+
+[//]: # (| [Chrome]&#40;https://chrome.google.com/webstore/detail/codecopy/fkbfebkcoelajmhanocgppanfoojcdmg&#41; | [Firefox]&#40;https://addons.mozilla.org/en-US/firefox/addon/codecopy/&#41; |)
+
+| <a href="https://addons.mozilla.org/en-US/firefox/addon/re-codecopy/"><img src="https://cloud.githubusercontent.com/assets/398893/15528952/ea095cc6-21fd-11e6-9aae-d67479edd442.png" width="48px" height="48px" alt="Firefox logo"></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                                                 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/re-codecopy/)                                                                                  |
+
 
 ## Supported sites
 
 Works with:
 
-* [GitHub](https://github.com/)
 * [MDN](https://developer.mozilla.org/)
-* [Gist](https://gist.github.com/)
 * [StackOverflow](http://stackoverflow.com/)
 * [StackExchange](https://stackexchange.com/sites)
 * [npm](https://www.npmjs.com/)
 * [Medium](https://medium.com/)
+* [CSDN](http://www.csdn.net/)
 
-[And more](https://github.com/zenorocha/codecopy/blob/7c638611f7ad01d923361f7fedfe3933b35e114c/dist/manifest.json#L27).
+[And more](https://github.com/Staler2019/codecopy/blob/master/dist/manifest.json#L45).
 
 If you want to add a new site, feel free to send a pull request :)
 
 ### Custom domains
 
-You can also enable CodeCopy on custom domains or Github Enterprise.
-Right click on CodeCopy's icon in the the toolbar  and select **Enable CodeCopy on this domain**.
+You can also enable CodeCopy on every website.
+In the CodeCopy's management setting, and select the permission tab to allow all the website.
 
 ## Preview
 

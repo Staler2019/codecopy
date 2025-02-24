@@ -1,13 +1,13 @@
 {
   "manifest_version": 2,
-  "name": "CodeCopy",
+  "name": "re-CodeCopy",
   "description": "Because copy to clipboard buttons should exist on every code snippet",
   "homepage_url": "https://github.com/Staler2019/codecopy",
   "version": "1.3.0",
   "author": "Staler2019",
   "browser_specific_settings": {
     "gecko": {
-      "id": "codecopy@Staler2019"
+      "id": "re-codecopy@Staler2019"
     }
   },
   "icons": {
